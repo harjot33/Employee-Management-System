@@ -1,0 +1,15 @@
+image: maven:latest
+
+build:
+  stage: build
+  script:
+    - mvn compile
+  tags:
+    - ugrad
+
+test:
+  stage: test
+  script:
+    - mvn clean test
+  tags:
+    - ugrad
