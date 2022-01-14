@@ -1,0 +1,2948 @@
+[33mcommit 63385d3901f06c0e5590f9410c3999ce1a584233[m[33m ([m[1;36mHEAD -> [m[1;32mharjot[m[33m)[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Fri Jan 14 11:37:38 2022 -0400
+
+    Changes Commit
+
+[33mcommit 487ff277285a8ae0253ef3a9ddcdf4c1d00b6172[m[33m ([m[1;31morigin/harjot[m[33m, [m[1;31mgithub/harjot[m[33m)[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Wed Jul 28 08:16:03 2021 +0530
+
+    Refactoring Changes.
+
+[33mcommit 654eafb94e2be5a30e691cc4c4c2a0be3c18a100[m
+Merge: 21537f5 30525cc
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Wed Jul 28 07:21:58 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into harjot
+
+[33mcommit 21537f5a889887e78dc474bfb7f31d653b50049d[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Wed Jul 28 07:19:34 2021 +0530
+
+    Refactoring.
+
+[33mcommit 3b223be4815be397fcf826a6dafac77070032e88[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Wed Jul 28 07:18:00 2021 +0530
+
+    Updated PerformanceEvaluatorScreen.java
+
+[33mcommit 30525ccfac29021de7d851f411cb252b8a887ea0[m[33m ([m[1;31morigin/develop[m[33m)[m
+Merge: ca90a5e acff926
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Tue Jul 27 21:00:41 2021 -0300
+
+    Merge branch 'ninad' into 'develop'
+    
+    Ninad-Final Merge
+    
+    See merge request courses/2021-summer/csci-5308/group-14!35
+
+[33mcommit acff9269c9b646c43f44ec534f46374cad494453[m[33m ([m[1;31morigin/ninad[m[33m)[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Tue Jul 27 20:54:52 2021 -0300
+
+    Delete NewEmployeeBusinessTest.java
+
+[33mcommit 9c5c6cb8dced502518246969a0f3dafe3c771691[m
+Merge: 5843de0 ca90a5e
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Tue Jul 27 20:03:16 2021 -0300
+
+    Merge remote-tracking branch 'origin/develop' into ninad
+    
+    # Conflicts:
+    #       Tests/Employee/SalariesTest.java
+    #       src/main/java/com/dalhousie/group14/BusinessLogic/utilities/SalariesTest.java
+    #       src/main/java/com/dalhousie/group14/Presentation/manager/ManagerLoginDashBoard.java
+    #       target/classes/com/dalhousie/group14/BusinessLogic/utilities/Salaries.class
+
+[33mcommit 5843de0920f24f58c384e204f3e277e184458acd[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Tue Jul 27 19:57:51 2021 -0300
+
+    final push
+
+[33mcommit ca90a5ed1e569d524f008898681d473c4e7d8a89[m
+Merge: 89d50b8 1c1462b
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Tue Jul 27 19:51:31 2021 -0300
+
+    Merge branch 'aadil' into 'develop'
+    
+    Aadil final merge
+    
+    See merge request courses/2021-summer/csci-5308/group-14!34
+
+[33mcommit 1c1462b10b72f1af2b77b066c6a1b1d5c7717c80[m[33m ([m[1;31morigin/aadil[m[33m)[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Wed Jul 28 04:17:05 2021 +0530
+
+    small fix pom.xml
+
+[33mcommit 9bb9433fc9d6d2ca146f9399b69f94b0d9acc45a[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Wed Jul 28 04:13:39 2021 +0530
+
+    Final small fixes for code.
+
+[33mcommit b939b3172250959bf5249c197e5202740196ebe1[m
+Merge: 2893784 89d50b8
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Wed Jul 28 04:04:58 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into aadil
+    
+    # Conflicts:
+    #       .idea/compiler.xml
+    #       .idea/group-14.iml
+    #       .idea/workspace.xml
+    #       pom.xml
+    #       src/main/java/com/dalhousie/group14/Presentation/employee/EmployeeLoginDashBoard.java
+    #       target/classes/com/dalhousie/group14/BusinessLogic/client/ClientDashboardValidation.class
+    #       target/classes/com/dalhousie/group14/BusinessLogic/employee/NoticePeriod.class
+    #       target/classes/com/dalhousie/group14/BusinessLogic/utilities/Notification$priority.class
+    #       target/classes/com/dalhousie/group14/BusinessLogic/utilities/Notification.class
+    #       target/classes/com/dalhousie/group14/BusinessLogic/utilities/NotificationManager.class
+    #       target/classes/com/dalhousie/group14/BusinessLogic/utilities/PasswordCheck.class
+    #       target/classes/com/dalhousie/group14/BusinessLogic/utilities/SalariesTest.class
+    #       target/classes/com/dalhousie/group14/BusinessLogic/utilities/UsernameCheck.class
+    #       target/classes/com/dalhousie/group14/Database/employee/IApprovedStatus.class
+    #       target/classes/com/dalhousie/group14/Database/employee/InsertResignRequests.class
+    #       target/classes/com/dalhousie/group14/Database/manager/DatabaseMediclaimRequests.class
+    #       target/classes/com/dalhousie/group14/Database/manager/EmployeeProjectPerformance.class
+    #       target/classes/com/dalhousie/group14/Database/manager/GetManagerID.class
+    #       target/classes/com/dalhousie/group14/Database/manager/InsertManagerID.class
+    #       target/classes/com/dalhousie/group14/Database/manager/MediClaimApproval.class
+    #       target/classes/com/dalhousie/group14/Database/manager/MediClaimRejection.class
+    #       target/classes/com/dalhousie/group14/Database/manager/NoticePeriodDisplay.class
+    #       target/classes/com/dalhousie/group14/Database/manager/RejectedStatus.class
+    #       target/classes/com/dalhousie/group14/Database/utilities/CheckUsernameExists.class
+    #       target/classes/com/dalhousie/group14/Presentation/employee/EmployeeLoginDashBoard.class
+    #       target/classes/com/dalhousie/group14/Presentation/employee/MakeResignRequest.class
+    #       target/classes/com/dalhousie/group14/Presentation/manager/ApproveRequests.class
+    #       target/classes/com/dalhousie/group14/Presentation/manager/MediclaimRequests.class
+    #       target/classes/com/dalhousie/group14/Presentation/manager/PerformanceEvaluatorScreen.class
+    #       target/classes/com/dalhousie/group14/Presentation/manager/SalaryOfEmployeeTest.class
+    #       target/classes/com/dalhousie/group14/Presentation/utilities/ILogin.class
+    #       target/classes/com/dalhousie/group14/Presentation/utilities/login.class
+
+[33mcommit 2893784415fbe02c2a485d2bf782a257d1f89273[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Wed Jul 28 03:57:18 2021 +0530
+
+    Final small fixes for code.
+
+[33mcommit 89d50b8f45a2bdaffe7ff77c0738c8bf90a5a892[m
+Merge: 43de0b6 c9509b4
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 27 15:02:47 2021 -0300
+
+    Merge branch 'ria' into 'develop'
+    
+    final code merge by Ria
+    
+    See merge request courses/2021-summer/csci-5308/group-14!33
+
+[33mcommit c9509b40b878f82a7a0c1449b3d451f31afcc8f0[m[33m ([m[1;31morigin/ria[m[33m)[m
+Merge: 2d680bb 43de0b6
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Tue Jul 27 23:28:20 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into ria
+
+[33mcommit 43de0b6f7d47249874c29bde78280b1795371cd5[m
+Merge: b8d1044 f303870
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Tue Jul 27 14:53:30 2021 -0300
+
+    Merge branch 'jainam' into 'develop'
+    
+    Final merge by  Jainam Rakeshkumar Shah
+    
+    Final merge by  Jainam Rakeshkumar Shah
+    
+    See merge request courses/2021-summer/csci-5308/group-14!32
+
+[33mcommit 2d680bbb907de2a243c53bc2f8a13d92bc09e03e[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Tue Jul 27 22:39:39 2021 +0530
+
+    final changes to the code
+
+[33mcommit 30528bbc21ceda0555e67d057147c549fb57ff63[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Tue Jul 27 21:16:33 2021 +0530
+
+    committing and pushing the final changes by refactoring the code in my repository
+
+[33mcommit f303870c0bae7f7d772637e9181ab4d6e43ca504[m[33m ([m[1;31morigin/jainam[m[33m)[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 27 20:56:04 2021 +0530
+
+    Final commit till UpdatePassword.
+
+[33mcommit 1b34e8494f55f5f441d8a5c45b89df77d561b37a[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 27 20:54:02 2021 +0530
+
+    Final commit till GiveSecurityQuestionAnswer.
+
+[33mcommit e18ef800201394f30590255b6eaa2ee376a34984[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 27 20:52:52 2021 +0530
+
+    Final commit till DBSecurityQuestion
+
+[33mcommit 20d03a63ebb4768593f0c02a4f2020c5a70f6f7f[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 27 20:49:17 2021 +0530
+
+    Create interface ISecurityQuestion,IEditEmployeeInformation.
+
+[33mcommit 908a85bb5f846ede78b73f778e430b36999908a1[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 27 18:53:37 2021 +0530
+
+    Create interface IDBEditEmployee.
+
+[33mcommit 9f998b81ff89f4defdddcf3de7f1dd0483e64196[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 27 18:13:42 2021 +0530
+
+    Create Two interface.
+
+[33mcommit a0abf9e86be6d8c9013ad3eb87c87ccc74d6f3e3[m
+Merge: 75305f5 b8d1044
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 27 14:52:56 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into jainam
+
+[33mcommit 75305f5e5237828ddfa035ce2cc743cf4af200f5[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 27 13:18:00 2021 +0530
+
+    Initial commit.
+
+[33mcommit fcb60aed93086aa954f2368adea6bd10cfae3e68[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Tue Jul 27 04:55:36 2021 +0530
+
+    Fixed a layer violation.
+
+[33mcommit b8d1044d342debec67cdc6111afbde0a93f0a2c1[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Mon Jul 26 19:13:31 2021 -0300
+
+    Bug fix
+
+[33mcommit 402d3efd52a9c139c2053a31ab01522d92d18f9f[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Mon Jul 26 18:55:40 2021 -0300
+
+    Update readme.md
+
+[33mcommit 65785485f2e4b12133b69cdaaf28ac0b718bc218[m
+Merge: 7ecba74 f49dd52
+Author: Harjot Singh <hr595409@dal.ca>
+Date:   Mon Jul 26 15:26:17 2021 -0300
+
+    Merge branch 'ria' into 'develop'
+    
+    fixed the resign request in employeelogindashboard
+    
+    See merge request courses/2021-summer/csci-5308/group-14!31
+
+[33mcommit f49dd52302157d71b63acb8d9c7ae875d9ab7522[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Mon Jul 26 23:52:15 2021 +0530
+
+    fixed the resign request bug in EmployeeLoginDashBoard
+
+[33mcommit 24f2b3d9e5010d13827699c581cce44703376424[m
+Merge: 9350d4b 7ecba74
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Mon Jul 26 23:50:30 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into ria
+
+[33mcommit 7ecba7454bff19aceee979fbe843892397c6be68[m
+Merge: 59e9809 4979348
+Author: Harjot Singh <hr595409@dal.ca>
+Date:   Mon Jul 26 15:19:55 2021 -0300
+
+    Merge branch 'ninad' into 'develop'
+    
+    fixed the asset management module in EmployeeLoginDashBoard
+    
+    See merge request courses/2021-summer/csci-5308/group-14!30
+
+[33mcommit 497934859ff634cef8dd856dab2f12a69503bf9d[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 26 15:10:57 2021 -0300
+
+    EmployeeLoginDashBoard
+
+[33mcommit 59e98097351a46cf02587595e1e70f5ae25be4ec[m
+Merge: 5e21562 50ab160
+Author: Harjot Singh <hr595409@dal.ca>
+Date:   Mon Jul 26 14:58:59 2021 -0300
+
+    Merge branch 'harjot' into 'develop'
+    
+    Fixed some bugs in EmployeeEvaluator Class.
+    
+    See merge request courses/2021-summer/csci-5308/group-14!29
+
+[33mcommit 50ab1605735407c008147d1ae6fdff4745deb8a7[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Mon Jul 26 23:01:13 2021 +0530
+
+    Updated PerformanceEvaluatorScreen.java
+
+[33mcommit e2f1cb5cbff5a4ee9a2779c98ed28635cb549211[m
+Merge: 6d3394e 5e21562
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Mon Jul 26 22:49:18 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into harjot
+
+[33mcommit 6d3394e13417d800f06da947fb7b83964117bd8c[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Mon Jul 26 22:48:56 2021 +0530
+
+    Minor updates in classes.
+
+[33mcommit 9350d4b1cd2331118f8ed4eaa2a472ecb2da464d[m
+Merge: 56c12e8 9c0f326
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Mon Jul 26 22:42:35 2021 +0530
+
+    Merge remote-tracking branch 'origin/jainam' into ria
+
+[33mcommit 5e21562a6bcf8a96c3f4c14e45e248ea0cf2fa65[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Mon Jul 26 13:33:04 2021 -0300
+
+    Update readme.md
+
+[33mcommit f61caae560dc05e5d3797da76eaa0449f248429a[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 23:50:19 2021 -0300
+
+    Update readme.md
+
+[33mcommit f1f6b25bb40fc691c3218e8e28eba6ffd33e12ff[m
+Merge: d166354 9c7bf01
+Author: Harjot Singh <hr595409@dal.ca>
+Date:   Sat Jul 24 23:22:42 2021 -0300
+
+    Merge branch 'harjot' into 'develop'
+    
+    Video Presentation - Fixed performance issues.
+    
+    See merge request courses/2021-summer/csci-5308/group-14!28
+
+[33mcommit 9c7bf016ae683be325841a71b3b83a4bc3cf3960[m
+Merge: 4f6b643 d166354
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Sun Jul 25 07:49:34 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into harjot
+
+[33mcommit 4f6b64374789497f3a8b09740d5642f29775fbfd[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Sun Jul 25 07:48:58 2021 +0530
+
+    Fixed bug in the Employee Evaluation Class.
+
+[33mcommit d166354e7ee0e8de75c0a5c9489e0174b1a39d3e[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 22:51:01 2021 -0300
+
+    Update .gitlab-ci.yml
+
+[33mcommit 4c40e8f2c2afcfbbcf242db3b9d947140e12c3ad[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 22:48:55 2021 -0300
+
+    Update pom.xml
+
+[33mcommit b3df0a4e680abb6070c917e0735dbf24183fb85a[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 22:48:17 2021 -0300
+
+    Update pom.xml
+
+[33mcommit 5687f74c0acdd7f21db85720e9d6ea14dfb8a99a[m
+Merge: 92f2f29 799d4f0
+Author: Harjot Singh <hr595409@dal.ca>
+Date:   Sat Jul 24 22:37:49 2021 -0300
+
+    Merge branch 'harjot' into 'develop'
+    
+    Integration of Modules - Video Presentation.
+    
+    See merge request courses/2021-summer/csci-5308/group-14!27
+
+[33mcommit 799d4f07b1e5a545966abd101c65d373b1123206[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Sun Jul 25 07:04:47 2021 +0530
+
+    Integration of Modules - Video Presentation.
+
+[33mcommit 6194ea7df66af56afd100ab79ba173891c6b14c8[m
+Merge: 1165778 92f2f29
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 25 05:09:56 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into jainam
+
+[33mcommit 92f2f290a81b8f2d3a7d69135b11b02975a9de54[m
+Merge: 56c12e8 368c812
+Author: Harjot Singh <hr595409@dal.ca>
+Date:   Sat Jul 24 20:39:33 2021 -0300
+
+    Merge branch 'aadil' into 'develop'
+    
+    Requesting you to merge updated notification feature
+    
+    See merge request courses/2021-summer/csci-5308/group-14!26
+
+[33mcommit 368c812b9b8ef67b1aec581aae5a3beb8212d309[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sun Jul 25 05:05:50 2021 +0530
+
+    Combined the merge commit with my local changes on notification presentation layer.
+
+[33mcommit 1165778a6d5238eab5bab33b92b42a0aee5b6bd5[m
+Merge: 65371d0 56c12e8
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 25 05:02:54 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into jainam
+
+[33mcommit 4160ea6ce9cdf2fe90de645873f2f5dc721a2b71[m
+Merge: fda75e1 56c12e8
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sun Jul 25 05:02:48 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into aadil
+
+[33mcommit 56c12e805125ab3f1d8630852b2865aa4bbbac7c[m
+Merge: 38ee504 6718449
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 20:31:47 2021 -0300
+
+    Merge branch 'harjot' into 'develop'
+    
+    Integration of Modules - EMS
+    
+    See merge request courses/2021-summer/csci-5308/group-14!25
+
+[33mcommit fda75e181db9033dbc84a0e61d6b75ab2941db9d[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sun Jul 25 04:59:50 2021 +0530
+
+    Added presentation layer for notifications.
+
+[33mcommit 67184493b48574ee9e9d1810e95b37e617400f94[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Sun Jul 25 04:59:07 2021 +0530
+
+    Integration of Modules - Video Presentation.
+
+[33mcommit ad3ef32f140a836efab585dae72a29bfa5d69338[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sun Jul 25 02:57:30 2021 +0530
+
+    Added presentation layer for notifications.
+
+[33mcommit 9cecc3577f35892393c59b117a12d20049e6c8e8[m
+Merge: 4c04b88 38ee504
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Sun Jul 25 02:24:48 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into harjot
+
+[33mcommit 40ca0d19da10b864856e69fb16a8e3431b5afac5[m
+Merge: d86194b 38ee504
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sun Jul 25 02:23:37 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into aadil
+
+[33mcommit 65371d0797f653911a5ef810c01e596e2fff877f[m
+Merge: 9c0f326 38ee504
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 25 02:23:22 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into jainam
+
+[33mcommit 38ee504df89423f56c97e78c7172b346f6310a94[m
+Merge: 1fac9c0 b8d6ff1
+Author: Harjot Singh <hr595409@dal.ca>
+Date:   Sat Jul 24 17:51:16 2021 -0300
+
+    Merge branch 'ria' into 'develop'
+    
+    Requesting to merge the developed features: login, resign requests and mediclaim requests and refactored code
+    
+    See merge request courses/2021-summer/csci-5308/group-14!24
+
+[33mcommit 9c0f326b1f5a76e8b71d46756afa28c7dbd80410[m
+Merge: 57aff68 1fac9c0
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 25 02:04:07 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into jainam
+
+[33mcommit 57aff68b6fd2fc62aa4cd206daf181a7a76c24b5[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 25 01:59:37 2021 +0530
+
+    Update Setlanguage
+
+[33mcommit b8d6ff14528af252ca9075f6c0d8d38262b2ae4c[m
+Merge: bca134a 1fac9c0
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sun Jul 25 01:54:32 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into ria
+
+[33mcommit d86194baeeabae9b90a3db29f0c467ec6a197888[m
+Merge: 0c648b9 1fac9c0
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sun Jul 25 01:54:15 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into aadil
+
+[33mcommit 4c04b88e7e5cf14dfdbdec3c391d86b436428ff4[m
+Merge: b274429 1fac9c0
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Sun Jul 25 01:54:00 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into harjot
+
+[33mcommit 1fac9c0ea979979c41bc4be2166f3e73128c27ee[m
+Merge: 9eef387 7647694
+Author: Harjot Singh <hr595409@dal.ca>
+Date:   Sat Jul 24 17:22:56 2021 -0300
+
+    Merge branch 'ninad' into 'develop'
+    
+    Ninad final merge
+    
+    See merge request courses/2021-summer/csci-5308/group-14!23
+
+[33mcommit 0c648b9a450e1d1fee3a86e73cccbf2438f26b0a[m
+Merge: bfd2b80 7647694
+Author: Harjot Singh <hr595409@dal.ca>
+Date:   Sat Jul 24 17:20:21 2021 -0300
+
+    Merge branch 'ninad' into 'aadil'
+    
+    Ninad final merge.
+    
+    See merge request courses/2021-summer/csci-5308/group-14!22
+
+[33mcommit 76476940e00c6a573dae85d14b21389680d84060[m
+Merge: fbff3ab 9eef387
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Sat Jul 24 17:15:37 2021 -0300
+
+    Merge remote-tracking branch 'origin/develop' into ninad
+
+[33mcommit fbff3ab78300c1e411e3178bd040f080d29568ba[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Sat Jul 24 17:05:01 2021 -0300
+
+    video commit
+
+[33mcommit bca134ae460d392da39800b03b0abff00021f17c[m
+Merge: 069791b 9eef387
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sun Jul 25 01:24:16 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into ria
+    
+    # Conflicts:
+    #       src/main/java/com/dalhousie/group14/Database/manager/EmployeeProjectPerformance.java
+    #       target/EMS-1.0-SNAPSHOT.jar
+
+[33mcommit 069791bd5fedbb75e6a145465456342a113ed45b[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sun Jul 25 01:16:46 2021 +0530
+
+    commit for UsernameCheck.java
+
+[33mcommit 9eef387a80f7ed5fee3deb91bf7b050875a467a0[m
+Merge: 84289cc bfd2b80
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sat Jul 24 16:31:12 2021 -0300
+
+    Merge branch 'aadil' into 'develop'
+    
+    Requesting you to merge my developed features : 1) Employee Project Management 2) Manager Schedule Management for employee
+    
+    See merge request courses/2021-summer/csci-5308/group-14!21
+
+[33mcommit bfd2b807f253ac447bb27941b3d8d339658219d1[m
+Merge: 779054c 84289cc
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sun Jul 25 00:55:33 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into aadil
+
+[33mcommit 779054c45ce120bfaff236cafa85b1b20ce06480[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sun Jul 25 00:53:09 2021 +0530
+
+    Implemented project management for employee
+
+[33mcommit 4f574c6bce9dd72ae086b5e90360083ed2c391d7[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sun Jul 25 00:37:48 2021 +0530
+
+    added comments
+
+[33mcommit 84289cc59c54066648910ef5134dbffccc585400[m
+Merge: 423a4eb af709be
+Author: Harjot Singh <hr595409@dal.ca>
+Date:   Sat Jul 24 15:53:51 2021 -0300
+
+    Merge branch 'harjot' into 'develop'
+    
+    Updated hte Project Management, Performance Evaluation Module and the Client Module's Functionality.
+    
+    See merge request courses/2021-summer/csci-5308/group-14!20
+
+[33mcommit b27442922ac231ac79bd5fc6f926d1ce5ec22702[m
+Merge: af709be 423a4eb
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Sun Jul 25 00:19:05 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into harjot
+
+[33mcommit af709be6d03df9da344c4d568f2b4e2bc0ea08c4[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Sat Jul 24 23:48:57 2021 +0530
+
+    Added Validations and improved logic - Client Module.
+
+[33mcommit 88b0381c7ec13adc0b6b21432a41a374e1bfa8c5[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Sat Jul 24 23:48:05 2021 +0530
+
+    Added Validations and improved logic - Project Management System.
+
+[33mcommit bebe118e6c4b73b91ad96c9e0c294bd65f90df9d[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Sat Jul 24 23:46:22 2021 +0530
+
+    Added Validations and improved logic - Employee Session Evaluation - Discipline Rating would now be computed using a set formula.
+
+[33mcommit cca4903c5713370c4b5abd6304ca5a9bd87c00ab[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Sat Jul 24 23:41:18 2021 +0530
+
+    Added Validations and improved logic - Employee Project Performance and Employee Sessions. - Improved Employee Project Performance Evaluation Module.
+
+[33mcommit e9d0ba58cbd1176456ef19b1c14be07b781f785c[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Sat Jul 24 23:38:05 2021 +0530
+
+    Improved Logic of the EmpEvaluation Class.
+
+[33mcommit 423a4eb3b403da85e689227fc066ea76ad285ad9[m
+Merge: 2bbd2c1 0fef4ce
+Author: Harjot Singh <hr595409@dal.ca>
+Date:   Sat Jul 24 13:23:08 2021 -0300
+
+    Merge branch 'ninad' into 'develop'
+    
+    salary management, joining request to manager by employee, asset request to manager by employee. Please merge them
+    
+    See merge request courses/2021-summer/csci-5308/group-14!19
+
+[33mcommit 0fef4ce60767f62fa8bdfb63abbc0b5cfad907ba[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Sat Jul 24 13:16:48 2021 -0300
+
+    pom.xml commit
+
+[33mcommit 79a0ff4e11ed57f4a55bce7fbf2a6246abe90536[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Sat Jul 24 13:12:12 2021 -0300
+
+    EmployeeTest
+
+[33mcommit dead5784db9f9766a4b2143ca5a5beb4e6c839cb[m
+Merge: 016b070 2f972a6
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Sat Jul 24 13:04:46 2021 -0300
+
+    Merge remote-tracking branch 'origin/ninad' into ninad
+
+[33mcommit 016b0704e2621097c483e6f98ef4807ce21167ab[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Sat Jul 24 12:57:34 2021 -0300
+
+    deleted unwanted files
+
+[33mcommit f9250e27aed5b384a7dc343996a99f98549aa77c[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Fri Jul 23 14:35:12 2021 -0300
+
+    commit on 23
+
+[33mcommit 747d2bbce6641b56471a7fbb03d3ceb13648699b[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Thu Jul 22 07:57:24 2021 -0300
+
+    layer violation refactoring
+
+[33mcommit 159ed4c0c1181d039cc33ce45301390d9b4788ac[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Tue Jul 20 00:19:11 2021 -0300
+
+    updating
+
+[33mcommit 4eea9c575550bdd6882ccc700b03cb71e4f7e7ab[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 22:42:39 2021 -0300
+
+    Displaying requests to a manager
+
+[33mcommit 90ad5e190d9f0a443feb62a63f7abcd5f51b6224[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 10:02:52 2021 -0300
+
+    applyjoinRequest and passing testcases
+
+[33mcommit 7f9649929f88123e7558bdcded753cea8d4eb077[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 10:00:56 2021 -0300
+
+    applyjoinRequest and passing testcases
+
+[33mcommit 7ed69bf85506da34e4899896bfeb1875e8e0bc77[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 09:43:37 2021 -0300
+
+    applyjoinRequest and test
+
+[33mcommit 2f3d1bb38677b242907692420d50d8d4e1328321[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 08:20:07 2021 -0300
+
+    PasswordValidation and testing
+
+[33mcommit 9648b27990f224c0cf57fa4022fb95930b80911e[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 07:34:43 2021 -0300
+
+    userNameValidation
+
+[33mcommit 4d2397229b5e2dd01275a55557451bbf5d9fb7fb[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 07:32:23 2021 -0300
+
+    TDD
+
+[33mcommit a98d3f79c23135e27564bfaf32197f27c2cb0a8a[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 07:32:02 2021 -0300
+
+    TDD
+
+[33mcommit 53a00f17330e58bc8a7442523652dec94701223b[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 06:11:46 2021 -0300
+
+    TDD
+
+[33mcommit 7e8794ab57ea82433c384ab2495bc2bfee2bcca1[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 05:51:10 2021 -0300
+
+    Created NewEmployeeBusiness and NewEmployeePresentation
+
+[33mcommit cb23e983a0c6510c3c0b5e50caa04b89bc09df18[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 05:45:23 2021 -0300
+
+    Created NewEmployeeBusiness and NewEmployeePresentation
+
+[33mcommit e7b4cfc1e927213dd426d9d3af1209e288b196e7[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 05:42:25 2021 -0300
+
+    Create a test for new Newemployee
+
+[33mcommit 2f972a64b5e5b9a236c4d481b6aaee7ca2801033[m
+Merge: 7eb9b4d dc86a2a
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Sat Jul 24 13:02:40 2021 -0300
+
+    Merge remote-tracking branch 'origin/ninad' into ninad
+
+[33mcommit 7eb9b4d5aae4437428cacc965fa372360b0e431c[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Sat Jul 24 12:57:34 2021 -0300
+
+    deleted unwanted files
+
+[33mcommit dc86a2a050e8ca0fb452696f16ed10ae488b1153[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Sat Jul 24 12:57:34 2021 -0300
+
+    deleted unwanted files
+
+[33mcommit 6d749516d9ea7975f5e4970f1d98ed8d412aa51d[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 19:26:31 2021 +0530
+
+    Implemented the manager functionality to handle employee schedule.
+
+[33mcommit 6e00095ada6ae9645b89b1094211c472441c0c6d[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sat Jul 24 16:20:35 2021 +0530
+
+    added TestClass for Print class
+
+[33mcommit a420b54fe6efce83ceeadabba9170bc8046f2914[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sat Jul 24 15:30:29 2021 +0530
+
+    Refactored the code, added comments, fixed bugs and added login date in the LoginSession table code.
+
+[33mcommit 2bbd2c1fcbb845d126a5ef7db8de7b14b0ac3692[m
+Merge: 830e4ea 2362b9b
+Author: Harjot Singh <hr595409@dal.ca>
+Date:   Fri Jul 23 18:20:55 2021 -0300
+
+    Merge branch 'aadil' into 'develop'
+    
+    Aadil
+    
+    See merge request courses/2021-summer/csci-5308/group-14!18
+
+[33mcommit 2362b9bc9f041be7eef0bc5cd3a4a535651caedc[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 02:42:51 2021 +0530
+
+    Use of scanner class implemented.
+
+[33mcommit 2b8813c372e0e08d4f6ed49f6e3c4a19fb3cccff[m
+Merge: a4df068 a63e98a
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 02:17:58 2021 +0530
+
+    Merge remote-tracking branch 'origin/aadil' into aadil
+    
+    # Conflicts:
+    #       .gitignore
+
+[33mcommit a4df0681014140e42fa00cf5d85f618aef1fa06a[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 01:56:17 2021 +0530
+
+    gitignore commit
+
+[33mcommit dda827abd3233092dee59541b95617cf7063ecba[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 01:55:41 2021 +0530
+
+    Refactored my code.
+
+[33mcommit 730d4711eaa8c6d2db2a7558b8f2c9810eae57d1[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 01:53:10 2021 +0530
+
+    Refactored my code.
+
+[33mcommit e3ee2bed27110ecb91abd2b0629b2b489e64a085[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Thu Jul 22 15:13:16 2021 -0300
+
+    Completed Employee Schedule Management
+
+[33mcommit 501e18ccceb93da331ac27c1806ce2aae34c811f[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Thu Jul 22 23:38:04 2021 +0530
+
+    Completed employee schedule management. Fixed major bugs
+
+[33mcommit 286bd6a59cc10191898d8dd10975ca0b60ce3d43[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Thu Jul 22 16:52:48 2021 +0530
+
+    Bug fix calendar modify event
+
+[33mcommit 5c74ebafa4b09fcfa80ac11e5749ac9cd23e3058[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Thu Jul 22 16:39:18 2021 +0530
+
+    Added the feature to modify event
+
+[33mcommit 5406d10dbc7a18890a881a7f378f578003126763[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Wed Jul 21 01:08:02 2021 +0530
+
+    Setup event class for calendar.
+
+[33mcommit 21c3b4b0bc61c9f51eb79639edda165f02347d9c[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Tue Jul 20 22:36:19 2021 +0530
+
+    Bug fix in presentation layer
+
+[33mcommit 5ed93571bd5ccad1ff1f209bdb906c789948f480[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Tue Jul 20 22:31:37 2021 +0530
+
+    Setup the presentation layer for displaying schedule
+
+[33mcommit fec76658c2b9039fc81bf893913f0895998608a3[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Tue Jul 20 16:51:47 2021 +0530
+
+    Major calendar update . Displays all special dates in an underlined format from database.
+
+[33mcommit 70593585b1ebbb018877ec8167edc7f24242f1c2[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Tue Jul 20 13:09:55 2021 +0530
+
+    Updated Calendar class. It can now show special dates in italic font
+
+[33mcommit a0d776fad7f2e2a3401cdb095214e455543a624e[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Tue Jul 20 12:40:35 2021 +0530
+
+    Small fix for notification class. Moved the printing code to presentation layer
+
+[33mcommit 419b2884534a0a8a0d93397a4e09dba9012b4316[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sun Jul 18 16:41:00 2021 +0530
+
+    Small fix for calendar display to show month name.
+
+[33mcommit 406cf1e28657d84504e0fa6f39f3a4ca67d129ea[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sun Jul 18 16:37:19 2021 +0530
+
+    Created the basic functionality to display calendar and its corresponding test
+
+[33mcommit a63e98a3cd30a705522cff29e4e18853f292d617[m
+Merge: 914cef4 a66dce7
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 01:58:58 2021 +0530
+
+    Merge remote-tracking branch 'origin/aadil' into aadil
+
+[33mcommit 914cef49b395cb7c0350611eda56dac486273afe[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 01:56:17 2021 +0530
+
+    gitignore commit
+
+[33mcommit a66dce7fe0e70bb60a274d289b3047e931ed7f49[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 01:56:17 2021 +0530
+
+    gitignore commit
+
+[33mcommit 40312c1b8fe034da7c337761c7a2ac35597b8112[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 01:55:41 2021 +0530
+
+    Refactored my code.
+
+[33mcommit 3e18d0f423893b239ee9149592ada6286f1a561a[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 24 01:53:10 2021 +0530
+
+    Refactored my code.
+
+[33mcommit 830e4ea186a9763988f5ec1f78e080a688f2fd0c[m
+Merge: 63ca334 c4ce84e
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 17:20:03 2021 -0300
+
+    Merge branch 'ria' into 'develop'
+    
+    Merging Resign requests, Mediclaim Requests and Login feature
+    
+    See merge request courses/2021-summer/csci-5308/group-14!17
+
+[33mcommit c4ce84eaf1df45f9864f4f80ff9db426037422d8[m
+Merge: 72c310a 63ca334
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sat Jul 24 01:35:51 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into ria
+    
+    # Conflicts:
+    #       src/main/java/com/dalhousie/group14/Presentation/employee/EditProfile.java
+
+[33mcommit 72c310a169f2b7c565d371283d7149339f18a720[m
+Merge: adaa8e0 ee9e91e
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sat Jul 24 01:35:08 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into ria
+    
+    # Conflicts:
+    #       .idea/workspace.xml
+    #       Tests/manager/EvaluatorTests.java
+    #       src/main/java/com/dalhousie/group14/BusinessLogic/utilities/Enter_credentials.java
+
+[33mcommit 63ca334b992499543679a5ac9d9f048f21b349fe[m
+Merge: ee9e91e 546aee1
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Fri Jul 23 17:03:31 2021 -0300
+
+    Merge branch 'jainam' into 'develop'
+    
+    Jainam Edit Profile, leave
+    
+    See merge request courses/2021-summer/csci-5308/group-14!16
+
+[33mcommit 546aee14a9b277ebf8183805be5891fc0e076140[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sat Jul 24 01:24:53 2021 +0530
+
+    Add junit .
+
+[33mcommit aa2f7703d11eed127f3435085fb8cb4908ef6c74[m
+Merge: c56deb5 4c905b3
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sat Jul 24 01:21:49 2021 +0530
+
+    Merge remote-tracking branch 'origin/jainam' into jainam
+    
+    # Conflicts:
+    #       .gitlab-ci.yml
+    #       pom.xml
+
+[33mcommit c56deb5050ba182d815b0de7b910fba0c66b878e[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sat Jul 24 01:17:59 2021 +0530
+
+    Commit .gitignore
+
+[33mcommit 6986e359ddb84890371be51c1d36d92f8c447712[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:48:55 2021 +0530
+
+    Create interface IGetEmployeeUserNameUserID  .
+
+[33mcommit 5504bd809e5fc5bd4d68847459e90afe4cb3e224[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:47:01 2021 +0530
+
+    remove override in   .
+
+[33mcommit f5b2995640925a69df1accc3e4ac4caf0edf140d[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:46:36 2021 +0530
+
+    remove override in RequestForApprovals  .
+
+[33mcommit 6d177138ac3bc67c5cda45c2937f123737b9cc12[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:46:11 2021 +0530
+
+    Update ManagerLoginDashBoard  .
+
+[33mcommit 66a1e02a55f14eea13ca028ccbd7d92f2c2093a5[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:45:50 2021 +0530
+
+    Write author name and remove override .
+
+[33mcommit 753d903070a3f70c3218b8cf916743a57569f9c7[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:45:32 2021 +0530
+
+    Write author name and remove override GiveSecurityQuestionAnswer .
+
+[33mcommit 1d3624b8a1fca599417e9985816a1f7cda900228[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:45:21 2021 +0530
+
+    Write author name and remove override GiveSecurityQuestionAnswer .
+
+[33mcommit 5a1de6ed9aed2fe3da7ef2a29513d40788d68db9[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:45:08 2021 +0530
+
+    Write author name and remove override.
+
+[33mcommit 98a2fdefdf29bdff88884279996e160f388a2961[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:44:47 2021 +0530
+
+    Write author name inetEmployeeUserNameUserIDd.
+
+[33mcommit 49cd0a6d12ead83102eee2820b47d109d19f8da3[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:44:22 2021 +0530
+
+    Write author name in EmployeeLoginDashBoard.
+
+[33mcommit 8c70e15898d8dfdd806ec3a83f1aa912cb15a288[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:44:05 2021 +0530
+
+    Write author name in EmployeeBean.
+
+[33mcommit 75718122f97111a4b0b42f372bacab821f5904ec[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:43:44 2021 +0530
+
+    Write author name in EditProfile.
+
+[33mcommit ca12ed6e46da1b9c14a7c28a42de446ca48e2f2f[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:43:31 2021 +0530
+
+    Write author name in EditEmployeeInformation.
+
+[33mcommit b6f00acab3135230aa75408f05d68e55ab95cf3f[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:43:17 2021 +0530
+
+    Write author name in DisplayEmployeeLoginInfo.
+
+[33mcommit 1b7c77a4365ae500aa410fd046f61fe337201886[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:42:56 2021 +0530
+
+    Write author name in DBSecurityQuestion.
+
+[33mcommit 0a92b48038a7630ee1e07331d14e9d899fbe601c[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:42:25 2021 +0530
+
+    Write author name in DBRequestForLeave.
+
+[33mcommit eddf01add03d72be8cb342042d4b7869a3b6d596[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:42:02 2021 +0530
+
+    Write author name.
+
+[33mcommit 234ca10e0db1bf094964d8ba500a8c5c1aa5f8e7[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:41:30 2021 +0530
+
+    Project Management dashboard.
+
+[33mcommit 0c09619b19daa330377607146e2035ca1a3e29ae[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:32:23 2021 +0530
+
+    Remover orverride and remove unrelated import.
+
+[33mcommit 208988b966d1eae86bcb1e721c1e53d516f0d896[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:31:58 2021 +0530
+
+    Remover orverride.
+
+[33mcommit a5ca0b0862baae18c8a610cded5246aa20527733[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:31:45 2021 +0530
+
+    Remover orverride.
+
+[33mcommit b6bfe39b7c3c8b57bc680030d4c57f3289574d72[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 13:07:48 2021 +0530
+
+    Create class setLanguage.
+
+[33mcommit 5ded1ec25d64b8d278c8022c597d11831e630927[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 13:07:26 2021 +0530
+
+    Create Interface IsetLanguage
+
+[33mcommit 1a7770029bcd45a2a08cf43757b41be6a6be62db[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 13:14:53 2021 -0300
+
+    Delete EmployeeValidate.java
+
+[33mcommit de3c96abec6d223819abce2b85558e263a4e3840[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:17:24 2021 +0530
+
+    change Press to select in sout.
+
+[33mcommit 4e1f5a291ef6cce06cee2bf5b8d6ee8d3779a2bb[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:17:04 2021 +0530
+
+    Update Exception Handling.
+
+[33mcommit 769975d4f8628ca71c0a42c6fd50848fde435ba7[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:05:04 2021 +0530
+
+    Update information author name.
+
+[33mcommit cfad0ec1289177676dbf0b3695f96c9b778a850c[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:04:53 2021 +0530
+
+    Update information.
+
+[33mcommit 3356184c45fdaa9690ab79702ffdacd54c50a969[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:04:32 2021 +0530
+
+    Remove unwanted comment.
+
+[33mcommit eae50b13b0a1bf1348d8875c13f5093d6257fa05[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:04:00 2021 +0530
+
+    Update Spacing, indentation in ManagerLoginDashBoard.
+
+[33mcommit bd2f91bd1aac6a8a032cb391c7ec28236e55d9f3[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:03:26 2021 +0530
+
+    Update Exception Handling in ManageEmployee.java class.
+
+[33mcommit 633b1b77b0c1870100096d77755ac4869c657b38[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:02:52 2021 +0530
+
+    Link Presentation.manager.RequestForApproval in Dbrequest
+
+[33mcommit 8dc3fde72f55047eceb0faf4cdcdcf648baddac4[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:34:06 2021 +0530
+
+    Link employee page to after successfully UpdatePassword.
+
+[33mcommit fd5a96e9cb34d482e7434b3ea32d2536b4c5b182[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:32:38 2021 +0530
+
+    Remove unwanted line in GetEmployeeUserNameUserID.
+
+[33mcommit 8becb5ba1eb514e11f85204d6e6670292b3a49fd[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:32:00 2021 +0530
+
+    Update Exception Handling in EmployeeLoginDashBoard and more suitable to Display.
+
+[33mcommit 7066eff116bd5a7c42fd070324abc587f50af3dd[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:31:18 2021 +0530
+
+    Update Exception Handling in EditEmployeeInformation.
+
+[33mcommit 1d400be8a9666ffee3e75e2b076f387af7615c65[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:29:54 2021 +0530
+
+    Update Exception Handling in EditEmployeeInformation.
+
+[33mcommit 45a93ab89627098832fbb67014212fc4729cd292[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:29:25 2021 +0530
+
+    Update : in for Display in DisplayEmployeeLoginInfo.
+
+[33mcommit ee566a7e4812a6b9d902a4ca4abfe511281e690e[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:28:49 2021 +0530
+
+    Update Exception Handling and import package in   DBEditEmployeeInformation.
+
+[33mcommit fe99c433ef9c6adec0d96429aa59919fd7703007[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:10:32 2021 +0530
+
+    Update Exception Handling and import package in  DBSecurityQuestion.
+
+[33mcommit a67804d85a7d081e3a0958b7d225c76900f757f5[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:09:30 2021 +0530
+
+    Update Exception Handling in SecurityQuestion.
+
+[33mcommit 42e1833929ece92d1f0e953f9c0861faf30b1e0f[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 13:13:25 2021 +0530
+
+    Update Indentation, Spacing in  GiveSecurityQuestionAnswer class.
+
+[33mcommit 489c494bac089b1ebb827c900f17b32f68fb1d3f[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 13:12:21 2021 +0530
+
+    Update Exception Handling in DBSecurityQuestion class.
+
+[33mcommit 705b4ffc0705a52fc09be0905a6f8b0e5b86f191[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 13:11:36 2021 +0530
+
+    Update Exception Handling in Security Question class.
+
+[33mcommit 28a47cdfd272f67992228266af0be3c39ccb257f[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:37:30 2021 +0530
+
+    Set variable name in UpdatePassword class.
+
+[33mcommit d0df17fb7843b34bba7b2de4a4693fccfeed76aa[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:36:52 2021 +0530
+
+    Remove infinity loop in RequestLeave class.
+
+[33mcommit af106d8e6ed66764dc7b3c34caf40715fbbb811a[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:08:43 2021 +0530
+
+    update indentation and change variable username to userName in RequestForLeave.
+
+[33mcommit b840784548d95a6f6bd3f530956182f0097f0df3[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:08:23 2021 +0530
+
+    update indentation and change variable username to userName.
+
+[33mcommit 3be75db1e069650a6041876aab0184f7e37ae4f8[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:07:55 2021 +0530
+
+    update indentation in GiveSecurityQuestionAnswer.
+
+[33mcommit 784d5efa46ca2fbc8deed8510ef58700d7f59627[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:07:21 2021 +0530
+
+    create EmployeeLoginDashBoard and use switchcase.
+
+[33mcommit a65198ca7d7ef97d4de0709978ebdb84f24d6df6[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:06:38 2021 +0530
+
+    Remove static keyword in EditProfile class/
+
+[33mcommit b4f5201ff0eefdff7c228a4fe14ac66ebd14b118[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:06:06 2021 +0530
+
+    Update variable name username to userName in  DBSecurityQuestion class.
+
+[33mcommit db9e060ed3fa138c52c5353a971cc7cef5f7e70f[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:05:31 2021 +0530
+
+    Update variable name username to userName in cancelLeaveRequest method.
+
+[33mcommit 91a9ca6ca37e48b1673db227b376edda022a7808[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:04:59 2021 +0530
+
+    Update variable name username to userName.
+
+[33mcommit 66d003d69c7bada8179c60c6de7e36d29a89dc7f[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:04:29 2021 +0530
+
+    Update indentation in ChangePassword.
+
+[33mcommit 2480e594e622678da9bf9fe0b6d1879c84f51186[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:28:23 2021 +0530
+
+    Create Interface IRequestForApprovals.
+
+[33mcommit 94b3c4ee71bc81cf0b7d524d48ac0180117d3f23[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:27:15 2021 +0530
+
+    Create class EmployeeBean where all employee getter and setter message.
+
+[33mcommit 7381edd7cde9d5e593fd4fef2a923503b33e81db[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:26:34 2021 +0530
+
+    Create class  DBEditEmployeeInformation where all employee related query in one class.
+
+[33mcommit e6f8c8adf0b3196c0f8d55afe55d64b5e593ccec[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:25:18 2021 +0530
+
+    Update indentation in RequestLeave class.
+
+[33mcommit 9392019f80e5b481bf06fd570359c14d9b25aef7[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:24:48 2021 +0530
+
+    Update details in RequestForApprovals class.
+
+[33mcommit 74c8155a657419f916bffa08d4cabccc7114db64[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:24:03 2021 +0530
+
+    set indentation in ManagerLoginDashBoard class.
+
+[33mcommit 06f7941be44c3a93f752eb02e05530ec793be3a8[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:22:28 2021 +0530
+
+    set indentation in ManageEmployee class.
+
+[33mcommit 7fa2f6db3ad518b517490fa4cc145cef1dff009a[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:21:52 2021 +0530
+
+    Create Edit employee information class where manager can see all the employee and update his contact name , date of birth, gender.
+
+[33mcommit 8f92cbb4f36270d0a65f095378fce9c121882aa5[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 13:58:03 2021 +0530
+
+    Add class description for ManagerLoginDashBoard.
+
+[33mcommit 04d8cf1ea45bb135f57f341d271c65ed16092a72[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 13:56:55 2021 +0530
+
+    Remove unusable line.
+
+[33mcommit 7bfc13e4ecafdd92592c425934a82c2b6c21ecbc[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 09:48:14 2021 +0530
+
+    Update method description in RequestLeave class.
+
+[33mcommit 7877201f538d6c745cd9ce34c7b5a358e21116fd[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 09:40:30 2021 +0530
+
+    Update method description in DBRequestForLeave class.
+
+[33mcommit 37bac6ed9e07f08d7926ce0d13deb34271a7e95e[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 09:32:16 2021 +0530
+
+    Set indent in RequestForLeave class.
+
+[33mcommit 1c5f7706d3dde6171948405728a4e2742dca89a8[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 09:27:36 2021 +0530
+
+    Set indent in FindDistanceBettweenDates class.
+
+[33mcommit c079bb1833aa459ee228bf5de6b4a76c6954e0c0[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 09:26:58 2021 +0530
+
+    Set indent in ChangeSecurityQuestion class.
+
+[33mcommit 5b63649aa518d55d686e0733dabc2a35c066db77[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 09:22:25 2021 +0530
+
+    Set indent in ChangePassword CLASS.
+
+[33mcommit 900b0d8536365f4abca9308f20f0124342ce7bd4[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 17:36:48 2021 +0530
+
+    Create RequestForLeaveTest class and perform testing.
+
+[33mcommit 03689c874673e974dbdf7392c28952e7b683d003[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 17:30:50 2021 +0530
+
+    Create FindDistanceBettweenDatesTest class
+
+[33mcommit 4e847ef81b4b974c5aee6ead3c91fd070f229b20[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:50:35 2021 +0530
+
+    chech pipeline
+
+[33mcommit 9e13fa6d397411c9e5d62faa525a5f533f76b13a[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:40:09 2021 +0530
+
+    UPDATE class ManagerLoginDashBoard
+
+[33mcommit 0c7ffb1889a7681532a304955039799e3a08085b[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:35:12 2021 +0530
+
+    Create class ManagerLoginDashBoard
+
+[33mcommit ed7193eea7254e517044fb6571197e9fa6d93a75[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:34:57 2021 +0530
+
+    Create class ManageEmployee.
+
+[33mcommit 30f635cfd3ff6499dee027da0c66bc33b4976062[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:33:44 2021 +0530
+
+    Update class GetManagerUserNameUserID.
+
+[33mcommit 60bec03285b7e6c0171d4fca16f31390819f04a3[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:33:27 2021 +0530
+
+    Update class GetEmployeeUserNameUserID.
+
+[33mcommit 8d27ba6c5535f084ad7e08cc6f40e4da8a10058e[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:33:05 2021 +0530
+
+    Update class EmployeeLoginDashBoard.
+
+[33mcommit 52c1d7022e1d3a14d91cbd55cc20eddc0bfa9cea[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:29:07 2021 +0530
+
+    Create class EditEmployeeInformation.
+
+[33mcommit d24fa0a21afc684f2f0af30005bcf438e68d1cb8[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:28:07 2021 +0530
+
+    Create class indDistanceBettweenDatesTest.
+
+[33mcommit 986694874583c8218abecf5dede8159a63e30548[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:27:43 2021 +0530
+
+    Create class RequestForApprovals
+
+[33mcommit f1756024dbe67756aec2c65a81e917a78af44751[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:25:37 2021 +0530
+
+    Create class RequestLeave.
+
+[33mcommit 8b4b415ad0485f8fbb3d325489f4028489f214ae[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:23:55 2021 +0530
+
+    Create class DBRequestForLeave.
+
+[33mcommit 74323e8235bcd102351f74547c663b54890d2f5b[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:22:44 2021 +0530
+
+    Create class RequestForLeave.
+
+[33mcommit 24c4cea48ca505446c6d92897e195632dd48345f[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:21:23 2021 +0530
+
+    Create class RequestForLeave.
+
+[33mcommit dccd26a64279942142636eb71a70fc9ff98766b8[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:20:44 2021 +0530
+
+    Create InterFace IRequestLeave.
+
+[33mcommit 93681b6996c9498e45dfff958cd6fa076eaf247b[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:20:26 2021 +0530
+
+    Create InterFace IRequestForLeave .
+
+[33mcommit cdf81d166818d6058816b714a620dfe379d0f5f4[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:19:15 2021 +0530
+
+    Create InterFace IDBRequestForLeave.
+
+[33mcommit ab5de6a26dae554ca98af0038ad4f2ef09e0fee5[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:17:33 2021 +0530
+
+    Create FindDistanceBettweenDates and implement IFindDistanceBettweenDates.
+
+[33mcommit a883d604dbab2ccc0c21e4da9b8e34a76c8070b1[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:08:56 2021 +0530
+
+    Create class TakeInputsFromEmployee for getting information from employee set indentation, remove static method.
+
+[33mcommit da668769984f0c3c147a78cb57514aff34dfdeec[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:06:13 2021 +0530
+
+    Update class UpdatePassword set indentation, add method descriptions,remove static method.
+
+[33mcommit af8b0e45d8868d5df60d1acb31785037954ab1bd[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:05:22 2021 +0530
+
+    Update class EditProfile set indentation, add method descriptions,remove static method.
+
+[33mcommit e34bba7f954dfd512cdcf5bd927546847bbcf03a[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:04:33 2021 +0530
+
+    Update class DisplayEmployeeLoginInfo set indentation, add method descriptions.
+
+[33mcommit 15d9b74cc393cd3c3b50548626964a0714281355[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:04:02 2021 +0530
+
+    Update class ChangeSecurityQuestion set indentation, add method descriptions.
+
+[33mcommit fc000be5a8b6b93f48a136f0b0a7f1bd4091b0da[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:03:40 2021 +0530
+
+    Update class ChangePassword set indentation, add method descriptions.
+
+[33mcommit ae3d3acca96804a2d69dc2d285ab7bec800f35b7[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:02:46 2021 +0530
+
+    Create class GetManagerUserNameUserID for get manager username and ID, set indentation, add method descriptions.
+
+[33mcommit 4ca553915bda5653e76a6b06c2f0c02158c43dd4[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:02:13 2021 +0530
+
+    Create class GetEmployeeUserNameUserID for get employee username and ID, set indentation, add method descriptions.
+
+[33mcommit f0658749b4a0e7c6d805841e93c2801d8874eb4e[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:59:16 2021 +0530
+
+    Create Interface for IGiveSecurityQuestionAnswer and set indentation.
+
+[33mcommit 05b8e6ad9ed764e5824ba0bcd5d737827dd4cf93[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:58:56 2021 +0530
+
+    Create Interface for IGetManagerUserNameUserID and set indentation.
+
+[33mcommit 5297b7a8d0795f5fda8b61d855fe986332295658[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:58:35 2021 +0530
+
+    Create Interface for IGetEmployeeUserNameUserID and set indentation.
+
+[33mcommit 8d2cc82a23a6c685e33672d322cc14c5cf355b6e[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:58:06 2021 +0530
+
+    Create Interface for IFindDistanceBettweenDates and set indentation.
+
+[33mcommit 5e7e2a79aa7c5e11dc28868e82d231527697a13f[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:57:45 2021 +0530
+
+    Create Interface for IDBSecurityQuestion and set indentation.
+
+[33mcommit 9c14eabfe0f7a31ada27dc0ba35310a72022f449[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:57:11 2021 +0530
+
+    Create Interface for IChangeSecurityQuestion and set indentation.
+
+[33mcommit 1f2f5a4e0e2ad25d461d24157d8f4f8d7f2d7c99[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:56:44 2021 +0530
+
+    Create Interface for ChangePassword
+
+[33mcommit 75f9281857e3ded1bf7a2e8bb32df592e79ea279[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:55:18 2021 +0530
+
+    Update GiveSecurityQuestionAnswer.java Class with implementing IGiveSecurityQuestionAnswer Interface, update method description.
+
+[33mcommit 2b9e518143d96b493b99c645b0113fcf45708a98[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:51:42 2021 +0530
+
+    Update GiveSecurityQuestionAnswer.java Class with implementing IGiveSecurityQuestionAnswer Interface, update method description.
+
+[33mcommit 671bf3086cada73a53313e470555167a95d464dc[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:49:35 2021 +0530
+
+    Create DBSecurityQuestion class for implemeneting all security question related methods.
+
+[33mcommit 5186e753f5b69335ebbebb1d4fdc4637b1cb007c[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:47:59 2021 +0530
+
+    Create ISetSecurityQuestion interface for setSecurity Question.
+
+[33mcommit 557c8c26f8e9e6ed90a3535e9fc6b5fe6c0c621c[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:46:19 2021 +0530
+
+    SetSecurityQuestion.java update with indentation and formatting, implement interface, add method description.
+
+[33mcommit a83829002163ce5b41eaa3bd36962739110c85b8[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:45:00 2021 +0530
+
+    SecurityQuestion.java update with indentation and formatting.
+
+[33mcommit 4c905b3411cba1edb5c0fa00938209c2730027e1[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sat Jul 24 01:17:59 2021 +0530
+
+    Commit .gitignore
+
+[33mcommit 24e9a98c557374688a5cf51400a313e21c59e2a0[m
+Merge: 115bff2 657c3a0
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sat Jul 24 01:12:33 2021 +0530
+
+    Merge remote-tracking branch 'origin/jainam' into jainam
+
+[33mcommit 115bff23fca0d6654e3cb77f3190243c1888ce04[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:48:55 2021 +0530
+
+    Create interface IGetEmployeeUserNameUserID  .
+
+[33mcommit ee9e91e78b3ab11ecc1fc043143d89e0ac582746[m
+Merge: d21d1eb 9525f25
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 16:38:44 2021 -0300
+
+    Merge branch 'harjot' into 'develop'
+    
+    Merge the Project Management Module, Performance Evaluation Module, and the Client module's functionality.
+    
+    See merge request courses/2021-summer/csci-5308/group-14!15
+
+[33mcommit adaa8e0a17ca8dfbc02c607a0f93617e3764748e[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sat Jul 24 00:01:41 2021 +0530
+
+    Fixed the bugs that were there in the Test Validation Class.
+
+[33mcommit 5015aa0f2728e4b5bf8d3f7fd200e8bdd4739c1e[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Fri Jul 23 23:57:09 2021 +0530
+
+    Fixed the bugs that were there in the Test Validation Class.
+
+[33mcommit e5454feb0f1a1bd9d08a1bd54e6b888d402f99a1[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Fri Jul 23 23:53:41 2021 +0530
+
+    Fixed the bugs that were there in the Test Validation Class.
+
+[33mcommit 0334b3af8d972f9bef4968f3c575d66c9bf06d69[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Fri Jul 23 23:46:34 2021 +0530
+
+    Fixed the bugs that were there in the Test Validation Class.
+
+[33mcommit 383027cddb58d17385acaa77e00cd6292d9bd46e[m
+Merge: 7c8d171 381d6ad
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Fri Jul 23 23:38:16 2021 +0530
+
+    Merge remote-tracking branch 'origin/ria' into ria
+
+[33mcommit 381d6ad396d0e650c9c262a7c6cf31013e614736[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Fri Jul 23 14:47:41 2021 -0300
+
+    Update .gitlab-ci.yml
+
+[33mcommit 9525f257edd7dc820992eadcfbe1890621036cbb[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Fri Jul 23 23:11:59 2021 +0530
+
+    Added more validations, SOLID principles to the existing classes, refactored code and fixed bugs.
+
+[33mcommit a261e6537bb284a203ae6a39cb448c7989f4a638[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Fri Jul 23 14:35:12 2021 -0300
+
+    commit on 23
+
+[33mcommit 7c8d171cd4fe37f1c9a6829a0bb2679bd4d35107[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Fri Jul 23 23:04:16 2021 +0530
+
+    updated resign requests, mediclaim requests and done refactoring
+
+[33mcommit 657c3a004d3c5cf1d497c6d402d9fd3468df7347[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:48:55 2021 +0530
+
+    Create interface IGetEmployeeUserNameUserID  .
+
+[33mcommit 69dfe7cc35a7e5f6c8d3a6c30040373c7c6506ba[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:47:01 2021 +0530
+
+    remove override in   .
+
+[33mcommit d0bf84a45f390fda3903a3630e7ace2f1aac0e86[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:46:36 2021 +0530
+
+    remove override in RequestForApprovals  .
+
+[33mcommit 634bc9b1c5bbf2fc35cf3e058b1572ee4e688bd4[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:46:11 2021 +0530
+
+    Update ManagerLoginDashBoard  .
+
+[33mcommit 451786a407e02163851839cc2a55645cb87992c0[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:45:50 2021 +0530
+
+    Write author name and remove override .
+
+[33mcommit 16cfd7ef798bf25f4e268f965f090e4b4857b04b[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:45:32 2021 +0530
+
+    Write author name and remove override GiveSecurityQuestionAnswer .
+
+[33mcommit edf0b96beb5d504201816defa152c29bfecf656d[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:45:21 2021 +0530
+
+    Write author name and remove override GiveSecurityQuestionAnswer .
+
+[33mcommit 870a64f551af99bb48cebc24a34bfce95a9df2a3[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:45:08 2021 +0530
+
+    Write author name and remove override.
+
+[33mcommit 83e3d1ed4a7eaa505f93ff1448a01a8e10220385[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:44:47 2021 +0530
+
+    Write author name inetEmployeeUserNameUserIDd.
+
+[33mcommit 1f5f6986864af3c9eb8b5c1ed719736523f49b1a[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:44:22 2021 +0530
+
+    Write author name in EmployeeLoginDashBoard.
+
+[33mcommit 6e6506ad4bbd2f0ab8e6ea7280120d6126018a71[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:44:05 2021 +0530
+
+    Write author name in EmployeeBean.
+
+[33mcommit 2713215947eb06e9b392d0443d914808a5b54ca5[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:43:44 2021 +0530
+
+    Write author name in EditProfile.
+
+[33mcommit be8009333406e5b1d1b5e63114603d62caab8808[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:43:31 2021 +0530
+
+    Write author name in EditEmployeeInformation.
+
+[33mcommit b7d68fda96ee83b7b9eba97b794cd204bcd16b5a[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:43:17 2021 +0530
+
+    Write author name in DisplayEmployeeLoginInfo.
+
+[33mcommit 0474d68788fc4f82565253cc9460c946e7a818a1[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:42:56 2021 +0530
+
+    Write author name in DBSecurityQuestion.
+
+[33mcommit 97f3dd2f7a1e40cade8b548addc17aa361d28ff1[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:42:25 2021 +0530
+
+    Write author name in DBRequestForLeave.
+
+[33mcommit d7dc222faba4ca4590df24dec926b18491c75100[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:42:02 2021 +0530
+
+    Write author name.
+
+[33mcommit 3d32f4c5a22bf5bde39cf5f156d5c4ea79cad342[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:41:30 2021 +0530
+
+    Project Management dashboard.
+
+[33mcommit 104fc31bcf9814ef260e9814ec5c5013608d7a25[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:32:23 2021 +0530
+
+    Remover orverride and remove unrelated import.
+
+[33mcommit 66127ae8dcc495fb2099616860a2b40255d59c8f[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:31:58 2021 +0530
+
+    Remover orverride.
+
+[33mcommit 77b7cd081cf3159b42131b75dc1e09c77a851d6e[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 20:31:45 2021 +0530
+
+    Remover orverride.
+
+[33mcommit bf7347cb40547816520c472f8ba7119b8335836a[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 13:07:48 2021 +0530
+
+    Create class setLanguage.
+
+[33mcommit 815a0e94d3a25b415c0b3ba2ae82ad78bd553ba7[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Fri Jul 23 13:07:26 2021 +0530
+
+    Create Interface IsetLanguage
+
+[33mcommit 2a63d46c45e3735a93095d7cfc1c1a208621a316[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Thu Jul 22 15:13:16 2021 -0300
+
+    Completed Employee Schedule Management
+
+[33mcommit 687d906b0b9bffed4a3c9bb74c9a67a15f747b03[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Thu Jul 22 23:38:04 2021 +0530
+
+    Completed employee schedule management. Fixed major bugs
+
+[33mcommit 9b515512731ac30976337b554666b31264f74abe[m
+Merge: 74ea973 cc4992d
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:18:16 2021 +0530
+
+    Merge remote-tracking branch 'origin/jainam' into jainam
+
+[33mcommit 74ea973543e23c2ac4354bc22866f48ec6d04d28[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:17:24 2021 +0530
+
+    change Press to select in sout.
+
+[33mcommit df786f788614b8ba134a51a918d28fc37eb48235[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:17:04 2021 +0530
+
+    Update Exception Handling.
+
+[33mcommit 014ec4c897e48c7b5d685b3e75f24a84ffd4f319[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:05:04 2021 +0530
+
+    Update information author name.
+
+[33mcommit d9f3ebfbf8e68cbecd85441ef2ef4e3771e333c2[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:04:53 2021 +0530
+
+    Update information.
+
+[33mcommit ab9e80bc857242e47d25b23ffb80f890ffd6c4cf[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:04:32 2021 +0530
+
+    Remove unwanted comment.
+
+[33mcommit 6463fd2d6c240cb6283e6b15834f19f6c68c14dc[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:04:00 2021 +0530
+
+    Update Spacing, indentation in ManagerLoginDashBoard.
+
+[33mcommit 84a0eda37bcb6aba918cd1ab4d0b994b5ebd8bb4[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:03:26 2021 +0530
+
+    Update Exception Handling in ManageEmployee.java class.
+
+[33mcommit baca79cdc4574a5a41861177f764b100a10deba4[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 22:02:52 2021 +0530
+
+    Link Presentation.manager.RequestForApproval in Dbrequest
+
+[33mcommit f5825f3086f65986598eded7d68cd6203f1ea425[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:34:06 2021 +0530
+
+    Link employee page to after successfully UpdatePassword.
+
+[33mcommit a99f56a6d674c09bf8050b0e207c1d6d8500519d[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:32:38 2021 +0530
+
+    Remove unwanted line in GetEmployeeUserNameUserID.
+
+[33mcommit b2cd727f309e6d79128a1bb83050356f02714929[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:32:00 2021 +0530
+
+    Update Exception Handling in EmployeeLoginDashBoard and more suitable to Display.
+
+[33mcommit cabd6412c09a6a2cdddcfd94d342b457f41c1fd0[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:31:18 2021 +0530
+
+    Update Exception Handling in EditEmployeeInformation.
+
+[33mcommit 605c8bb1b585298cd2a0f05e89de8c1bde2cb7f4[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:29:54 2021 +0530
+
+    Update Exception Handling in EditEmployeeInformation.
+
+[33mcommit e2e5d4b27f84523b8b82fb9ed4199b036f3dc957[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:29:25 2021 +0530
+
+    Update : in for Display in DisplayEmployeeLoginInfo.
+
+[33mcommit ebc1f9cbfeba4e9fd5b4a94a7b4e8bddf4e9dc94[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:28:49 2021 +0530
+
+    Update Exception Handling and import package in   DBEditEmployeeInformation.
+
+[33mcommit 6fad73aa154f211a429554bb1ec4f11609c21d10[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:10:32 2021 +0530
+
+    Update Exception Handling and import package in  DBSecurityQuestion.
+
+[33mcommit 7a997efe6ac3b3ac27dfe07670dbcbe5e25fd4d3[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 21:09:30 2021 +0530
+
+    Update Exception Handling in SecurityQuestion.
+
+[33mcommit d718a125964a2fd1b3e0b79bfe4bcd981537e77b[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Thu Jul 22 19:22:55 2021 +0530
+
+    Removed redundant code and fixed errors.
+
+[33mcommit 5db06b347d68531d0d5a3baeae496836f7ba58a5[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Thu Jul 22 19:16:36 2021 +0530
+
+    Added more functionalities to the Project Management Module, Added Interface Layers over the existing classes, Refactored Code according to SOLID Principles.
+
+[33mcommit 1248227e8a3f4bb921ea52b1da2d924151945dd1[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Thu Jul 22 16:52:48 2021 +0530
+
+    Bug fix calendar modify event
+
+[33mcommit a8b922da21825055416c16c8723e6c11d90764f1[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Thu Jul 22 16:39:18 2021 +0530
+
+    Added the feature to modify event
+
+[33mcommit d007bec872fa6efc266c3d14d9782956eade1a1b[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Thu Jul 22 07:57:24 2021 -0300
+
+    layer violation refactoring
+
+[33mcommit a7509f412e628271c68df7b1663f1a07d5c3667b[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 13:13:25 2021 +0530
+
+    Update Indentation, Spacing in  GiveSecurityQuestionAnswer class.
+
+[33mcommit 69c7c0157ca562d7ad672d6a2230f3c683ab4728[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 13:12:21 2021 +0530
+
+    Update Exception Handling in DBSecurityQuestion class.
+
+[33mcommit 4d04b49a372c4a1b3bd269f14adcf2607b0f286d[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Thu Jul 22 13:11:36 2021 +0530
+
+    Update Exception Handling in Security Question class.
+
+[33mcommit cc4992d9ec796e5956e7225a86fc8b321f470af4[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 13:14:53 2021 -0300
+
+    Delete EmployeeValidate.java
+
+[33mcommit 5cb4978a56d2fb136883d4887318a79ca7268a44[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:37:30 2021 +0530
+
+    Set variable name in UpdatePassword class.
+
+[33mcommit f5c0de43bdaf22fb04b01905357a589f33dbaa4e[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:36:52 2021 +0530
+
+    Remove infinity loop in RequestLeave class.
+
+[33mcommit d164a8f403cfcdef4aa958958a22e1cde6792cf5[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:08:43 2021 +0530
+
+    update indentation and change variable username to userName in RequestForLeave.
+
+[33mcommit a6f8b90e4c5b4388a22421281f15f21756d532f9[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:08:23 2021 +0530
+
+    update indentation and change variable username to userName.
+
+[33mcommit b3310a1bda9af0863727b4f0aa81f48caafd300a[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:07:55 2021 +0530
+
+    update indentation in GiveSecurityQuestionAnswer.
+
+[33mcommit c432ddab659cc0edf73583ea0c951f1cdae800e9[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:07:21 2021 +0530
+
+    create EmployeeLoginDashBoard and use switchcase.
+
+[33mcommit 8f61e41c0c973ea39a5694f6af5057318f016d9d[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:06:38 2021 +0530
+
+    Remove static keyword in EditProfile class/
+
+[33mcommit 7c2a2ecffb2da044ade79107803a3d5e78e29af3[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:06:06 2021 +0530
+
+    Update variable name username to userName in  DBSecurityQuestion class.
+
+[33mcommit dfc5f769524fffadadfc15285ab3ed581f08f266[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:05:31 2021 +0530
+
+    Update variable name username to userName in cancelLeaveRequest method.
+
+[33mcommit 7f76fa6d884d7f69e7e25709fcbedf772c4ae3cb[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:04:59 2021 +0530
+
+    Update variable name username to userName.
+
+[33mcommit f82a8a229900a97c8815d0f513466da180248984[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Wed Jul 21 21:04:29 2021 +0530
+
+    Update indentation in ChangePassword.
+
+[33mcommit 8459714a2e4a521a08c8d6b83b828d5e1453d327[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Wed Jul 21 21:02:35 2021 +0530
+
+    developed resign requests and mediclaim requests feature
+
+[33mcommit e0e7efc1fa3acc0eb14b725a384d11a8e4443bd0[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Wed Jul 21 01:08:02 2021 +0530
+
+    Setup event class for calendar.
+
+[33mcommit c6242d1aaa53de2cc34d8943676befe5193f60f9[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Tue Jul 20 22:36:19 2021 +0530
+
+    Bug fix in presentation layer
+
+[33mcommit 37f443b1ce15528c0034abdab6e216de716ffceb[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Tue Jul 20 22:31:37 2021 +0530
+
+    Setup the presentation layer for displaying schedule
+
+[33mcommit 2cd7c2e54a1b19176ae4f46a93a3c3ded153d652[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Tue Jul 20 16:51:47 2021 +0530
+
+    Major calendar update . Displays all special dates in an underlined format from database.
+
+[33mcommit cbaa8331398a9cba8e8af2bcb65c11097d8270e5[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:28:23 2021 +0530
+
+    Create Interface IRequestForApprovals.
+
+[33mcommit 84ec543284b52cc8ca508d3b8165b31f9ed02146[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:27:15 2021 +0530
+
+    Create class EmployeeBean where all employee getter and setter message.
+
+[33mcommit 7ff0050e3d8593fcd0c0ab21a07bda022c33f76a[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:26:34 2021 +0530
+
+    Create class  DBEditEmployeeInformation where all employee related query in one class.
+
+[33mcommit 2fb2516de8ba71a19bdd186a0b5cc28b9b0b887d[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:25:18 2021 +0530
+
+    Update indentation in RequestLeave class.
+
+[33mcommit dd356d8a957fb8c20df8e2bfef4265dadab6fd23[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:24:48 2021 +0530
+
+    Update details in RequestForApprovals class.
+
+[33mcommit 234ebdd920ab4e7f35c47f60c263e6096ecb1b7c[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:24:03 2021 +0530
+
+    set indentation in ManagerLoginDashBoard class.
+
+[33mcommit 2965dca65e069fb063c7f700a290fb3fbe1b136d[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:22:28 2021 +0530
+
+    set indentation in ManageEmployee class.
+
+[33mcommit 769931b4564ce603b99eba7ee5cadb3b1a428479[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 14:21:52 2021 +0530
+
+    Create Edit employee information class where manager can see all the employee and update his contact name , date of birth, gender.
+
+[33mcommit de362adf65c01cb5c43e35119ede7f96b07360c2[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 13:58:03 2021 +0530
+
+    Add class description for ManagerLoginDashBoard.
+
+[33mcommit ee89b30b1ced98f04b0801dfa990b39a7e5040f7[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 13:56:55 2021 +0530
+
+    Remove unusable line.
+
+[33mcommit b5503fc82b5bff9e7e752cbd1b51f8d12760c62a[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Tue Jul 20 13:09:55 2021 +0530
+
+    Updated Calendar class. It can now show special dates in italic font
+
+[33mcommit f1ae1f66370a74bad0955db2b99d0dd7e630ca50[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Tue Jul 20 12:40:35 2021 +0530
+
+    Small fix for notification class. Moved the printing code to presentation layer
+
+[33mcommit ca0fa40c804ef393c6fb801a80a5664205264d88[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 09:48:14 2021 +0530
+
+    Update method description in RequestLeave class.
+
+[33mcommit d7ca9dbba07b7fc8192c2dbdcf1615b594ac6ddd[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 09:40:30 2021 +0530
+
+    Update method description in DBRequestForLeave class.
+
+[33mcommit 55007dac2dc2bea7daa88780e00a078f8bb17689[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 09:32:16 2021 +0530
+
+    Set indent in RequestForLeave class.
+
+[33mcommit 28a9639ae0cfa5aae9667f3015efd41de6fa6a3e[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 09:27:36 2021 +0530
+
+    Set indent in FindDistanceBettweenDates class.
+
+[33mcommit dc68b41fd18bfe29ac5d375aa3752df9db6d1143[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 09:26:58 2021 +0530
+
+    Set indent in ChangeSecurityQuestion class.
+
+[33mcommit 702bfbfd86a5a59a43d15684e87f61baba939992[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Tue Jul 20 09:22:25 2021 +0530
+
+    Set indent in ChangePassword CLASS.
+
+[33mcommit 618dc9c2938a5fd5dd49d121d8f867bb9c5f895e[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Tue Jul 20 00:19:11 2021 -0300
+
+    updating
+
+[33mcommit 054d99b70d00a3fcac57108077ec9ce6445ecc94[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 22:42:39 2021 -0300
+
+    Displaying requests to a manager
+
+[33mcommit 74a9cfcdad2b8ecb2ade5e61726398d3bc421378[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Tue Jul 20 03:03:57 2021 +0530
+
+    Majorly Completed Project Management Module.
+
+[33mcommit 5c7dfac383c7347d41086235fdf2ef5482551530[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 10:02:52 2021 -0300
+
+    applyjoinRequest and passing testcases
+
+[33mcommit 273838c50367a664c8f3d0900a60b2c48fc8cf3e[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 10:00:56 2021 -0300
+
+    applyjoinRequest and passing testcases
+
+[33mcommit 71ea4918a23249e5801274a2ccd8a67389bb67df[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 09:43:37 2021 -0300
+
+    applyjoinRequest and test
+
+[33mcommit 1b0b29610653cc886d5a43baaf4aed41561712fb[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 17:36:48 2021 +0530
+
+    Create RequestForLeaveTest class and perform testing.
+
+[33mcommit e498d9daeeb373f60aac9104035bba6a2afc57de[m
+Merge: 971c0e0 2902206
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 17:31:19 2021 +0530
+
+    Merge remote-tracking branch 'origin/jainam' into jainam
+
+[33mcommit 971c0e033f424aa8bb70a6a8c2cf3500f283e3c0[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 17:30:50 2021 +0530
+
+    Create FindDistanceBettweenDatesTest class
+
+[33mcommit d3443cd6985de138f9d69c9ce2a8fd603f5027f6[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Mon Jul 19 17:09:32 2021 +0530
+
+    Defined Functionalities for the Project Management Module, along with tests. Defined ProjectAssigner Class while following TDD.
+
+[33mcommit 50a91fb0e5379ed00bc0b012b81bade482cf67fc[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 08:20:07 2021 -0300
+
+    PasswordValidation and testing
+
+[33mcommit 1dabb2d0cea15837ccd0eafdbd64da1c61a6b72e[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Mon Jul 19 16:43:00 2021 +0530
+
+    Defined Project Management Module and wrote some of the elementary functionalities.
+
+[33mcommit 6be695d88788391296b79d5699ec01ef19f55160[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 07:34:43 2021 -0300
+
+    userNameValidation
+
+[33mcommit 6d94ec07592e18ecba3fa9379b106601bc8755c5[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 07:32:23 2021 -0300
+
+    TDD
+
+[33mcommit 5f31a527255a88ee35a9ec0bcc68ae3abb933e63[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 07:32:02 2021 -0300
+
+    TDD
+
+[33mcommit 2902206c6c23681d76f2626a07bdce48989173da[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 07:27:59 2021 -0300
+
+    commit
+
+[33mcommit 19f2acbc464b8b4d0a5d446bf3afe05d5e50b913[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Mon Jul 19 07:26:20 2021 -0300
+
+    Update Login_Presentation.java
+
+[33mcommit 60d7df29a55385b6dfbab2b61a135f93c8f1afb6[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 07:23:29 2021 -0300
+
+    Delete Login.java
+
+[33mcommit 88a493526cdcea36eb6ccd328f9515bd38559f49[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:50:35 2021 +0530
+
+    chech pipeline
+
+[33mcommit 368fe852abbc3313253b02e330b770a6b41ca967[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:46:26 2021 +0530
+
+    push pom.xml
+
+[33mcommit de64a1ff36f9b35a9e865b0e64eebb9e1045ec6f[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:40:09 2021 +0530
+
+    UPDATE class ManagerLoginDashBoard
+
+[33mcommit bbb73ad99c1f5017b7e63c33fe375b8647374951[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:35:12 2021 +0530
+
+    Create class ManagerLoginDashBoard
+
+[33mcommit f4bab6a92f182c3557834353375bd2283b471b8c[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:34:57 2021 +0530
+
+    Create class ManageEmployee.
+
+[33mcommit dbafb78ca25eb6f0874bc0eb7c78e5ca275da60f[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:33:44 2021 +0530
+
+    Update class GetManagerUserNameUserID.
+
+[33mcommit b231e89c972809639be4ef8559d8d9e3134baf25[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:33:27 2021 +0530
+
+    Update class GetEmployeeUserNameUserID.
+
+[33mcommit d2d71a2c9c2e17e2d11457264df3c4a9d6fec57e[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:33:05 2021 +0530
+
+    Update class EmployeeLoginDashBoard.
+
+[33mcommit 600eec2291bbf5a87ab5d026ce8c9da760deb5da[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:29:07 2021 +0530
+
+    Create class EditEmployeeInformation.
+
+[33mcommit 4fd1fe1c256a3df42ce8d7e604bb35a4d00c68f4[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:28:07 2021 +0530
+
+    Create class indDistanceBettweenDatesTest.
+
+[33mcommit cc3323c4df8dc9326a289db5cec531bbfe98d633[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:27:43 2021 +0530
+
+    Create class RequestForApprovals
+
+[33mcommit eb4dc8ee8b59beadcaa1226988f25d3cf5937f20[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:25:37 2021 +0530
+
+    Create class RequestLeave.
+
+[33mcommit 56fb07d0bcae59259d1cb9e3ad79f846289d8724[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:23:55 2021 +0530
+
+    Create class DBRequestForLeave.
+
+[33mcommit cc284dfd341605fbf92b88be8140328cd645daf8[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:22:44 2021 +0530
+
+    Create class RequestForLeave.
+
+[33mcommit 47d604f1a89f04d566dd5069be39346a92b599d9[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:21:23 2021 +0530
+
+    Create class RequestForLeave.
+
+[33mcommit 02c3a2e7a671be2f768c9d3d8f7855379fc78840[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:20:44 2021 +0530
+
+    Create InterFace IRequestLeave.
+
+[33mcommit ce6eb6c75d1897e0b0cc131d5b11d260db6451af[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:20:26 2021 +0530
+
+    Create InterFace IRequestForLeave .
+
+[33mcommit cc8ec42217bc8f4843868a5da536ef97bed6c4f3[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:19:15 2021 +0530
+
+    Create InterFace IDBRequestForLeave.
+
+[33mcommit 6961129be57ac0ea1677e55c49cb659de0895807[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:17:33 2021 +0530
+
+    Create FindDistanceBettweenDates and implement IFindDistanceBettweenDates.
+
+[33mcommit 7168f10061ed91ac0f9aeff09e13b86ef4f85ef2[m
+Merge: aacb67e 53dc0ff
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 15:08:39 2021 +0530
+
+    Merge remote-tracking branch 'origin/jainam' into jainam
+
+[33mcommit 53dc0ffb964d9b7fd62d8457b5c718b7ad1eb745[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Mon Jul 19 06:37:06 2021 -0300
+
+    Update .gitlab-ci.yml
+
+[33mcommit ad732c213acbfb3abb355d8a3a91080a79da4268[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 06:27:30 2021 -0300
+
+    Update .gitlab-ci.yml
+
+[33mcommit 28e69e760910f34108608b4f9b06e258d1a57379[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 06:11:46 2021 -0300
+
+    TDD
+
+[33mcommit ca8d4f8c4ce92a6889c3bd910cd0982af4ce476b[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 05:51:10 2021 -0300
+
+    Created NewEmployeeBusiness and NewEmployeePresentation
+
+[33mcommit 4fc98aa1beb65fa2cead203267e35d775b3d251b[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 05:45:23 2021 -0300
+
+    Created NewEmployeeBusiness and NewEmployeePresentation
+
+[33mcommit a7096db21ea7c2fbe8599b6662ca06e17b387acf[m
+Author: Ninad Nitin Shukla <nn320259@dal.ca>
+Date:   Mon Jul 19 05:42:25 2021 -0300
+
+    Create a test for new Newemployee
+
+[33mcommit aacb67e82e9781b2d414ad5b14ad9c0a63a6bec7[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:08:56 2021 +0530
+
+    Create class TakeInputsFromEmployee for getting information from employee set indentation, remove static method.
+
+[33mcommit a1e4ea951010d73f619aaaaddcbdb5f748f1756e[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:06:13 2021 +0530
+
+    Update class UpdatePassword set indentation, add method descriptions,remove static method.
+
+[33mcommit a178e033c3877f685bffc0399fa557ae0f3b7b6b[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:05:22 2021 +0530
+
+    Update class EditProfile set indentation, add method descriptions,remove static method.
+
+[33mcommit 5afb467d3a30d461c690e291b483fad8586a1370[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:04:33 2021 +0530
+
+    Update class DisplayEmployeeLoginInfo set indentation, add method descriptions.
+
+[33mcommit 237b4404b5ca870bacdd90442a7727ce7a243775[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:04:02 2021 +0530
+
+    Update class ChangeSecurityQuestion set indentation, add method descriptions.
+
+[33mcommit 6f4294aecf5f8819e9930fd382a6e81a201dcf3c[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:03:40 2021 +0530
+
+    Update class ChangePassword set indentation, add method descriptions.
+
+[33mcommit 4f34a1f82dd8fe16ed073abeab1bca866105072b[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:02:46 2021 +0530
+
+    Create class GetManagerUserNameUserID for get manager username and ID, set indentation, add method descriptions.
+
+[33mcommit cd9ea5cdabb5220f4bd9f172b5e2a9c2f7d116b8[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 17:02:13 2021 +0530
+
+    Create class GetEmployeeUserNameUserID for get employee username and ID, set indentation, add method descriptions.
+
+[33mcommit 0818a48d40ef9645e4e28cb42a76749c2da3b5d0[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:59:16 2021 +0530
+
+    Create Interface for IGiveSecurityQuestionAnswer and set indentation.
+
+[33mcommit e764b9b09ae85f0459a777f55fe2bc27581759d8[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:58:56 2021 +0530
+
+    Create Interface for IGetManagerUserNameUserID and set indentation.
+
+[33mcommit b8a96a970debdf9b4e1eee7a77efb59e431e36d8[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:58:35 2021 +0530
+
+    Create Interface for IGetEmployeeUserNameUserID and set indentation.
+
+[33mcommit 46ec1a2c48d99abaefd539fa58c21a3394b1f370[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:58:06 2021 +0530
+
+    Create Interface for IFindDistanceBettweenDates and set indentation.
+
+[33mcommit 1c2185ab20d34da32753e35cfb1e07af01973218[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:57:45 2021 +0530
+
+    Create Interface for IDBSecurityQuestion and set indentation.
+
+[33mcommit 12941f426263b406dd32fa01a306cac1379d315b[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:57:11 2021 +0530
+
+    Create Interface for IChangeSecurityQuestion and set indentation.
+
+[33mcommit 344a522c7a4082157a1321380887862f965f705b[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:56:44 2021 +0530
+
+    Create Interface for ChangePassword
+
+[33mcommit ad926a4af9a3247c2e57c52c6a454e3de97ffff7[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:55:18 2021 +0530
+
+    Update GiveSecurityQuestionAnswer.java Class with implementing IGiveSecurityQuestionAnswer Interface, update method description.
+
+[33mcommit b3f573453e22577d5f62157018a5d6a26087f0da[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:51:42 2021 +0530
+
+    Update GiveSecurityQuestionAnswer.java Class with implementing IGiveSecurityQuestionAnswer Interface, update method description.
+
+[33mcommit 5a66c29568c4d5a467eaddd187769347163a5489[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:49:35 2021 +0530
+
+    Create DBSecurityQuestion class for implemeneting all security question related methods.
+
+[33mcommit c19205ed22f902570d16a55e24008e927e07c978[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:47:59 2021 +0530
+
+    Create ISetSecurityQuestion interface for setSecurity Question.
+
+[33mcommit 2271709165832e51cb2e8a5d20e0f1400cf016fb[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:46:19 2021 +0530
+
+    SetSecurityQuestion.java update with indentation and formatting, implement interface, add method description.
+
+[33mcommit 48bc91315fb335a97480ef27be6da48a60adcc01[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 18 16:45:00 2021 +0530
+
+    SecurityQuestion.java update with indentation and formatting.
+
+[33mcommit 431335d985e856aa9de31fcd34d23fac47b4221d[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sun Jul 18 16:41:00 2021 +0530
+
+    Small fix for calendar display to show month name.
+
+[33mcommit aa5925aa6c079e8a2db65856f1f64b039041151d[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sun Jul 18 16:37:19 2021 +0530
+
+    Created the basic functionality to display calendar and its corresponding test
+
+[33mcommit c6475b4c6fda38c4159b3dd9f7426bf5541c7924[m
+Author: Harjot Singh <harjot.sidhu33@gmail.com>
+Date:   Sun Jul 18 14:08:24 2021 +0530
+
+    Amended files.
+
+[33mcommit d21d1eb7ebe2227734fca24e693817d803d20de3[m
+Merge: 2bafa13 92a06b0
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Mon Jul 12 11:56:04 2021 -0300
+
+    Merge branch 'ria' into 'develop'
+    
+    Requesting to merge my developed features: Login and resign requests
+    
+    See merge request courses/2021-summer/csci-5308/group-14!13
+
+[33mcommit 92a06b0229cbf855ece6d5872354845fb95f080a[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Mon Jul 12 20:22:23 2021 +0530
+
+    developed the feature to handle resign requests
+
+[33mcommit 2bafa13c973b48de1ac5260ae5447b4e7047f8e8[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Mon Jul 12 11:42:50 2021 -0300
+
+    Update .gitlab-ci.yml
+
+[33mcommit 7ca50d55c498480dc0f6ffc8ffc2bf95ca1116b8[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Mon Jul 12 11:40:36 2021 -0300
+
+    Update .gitlab-ci.yml
+
+[33mcommit 8d6f8684e57cdc3c7f59a35d1b84bdcd9756126d[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sun Jul 11 01:07:09 2021 +0530
+
+    removed login_presentation
+
+[33mcommit 02f69ca0293e4d4d3162041f4ff2d2e3041c2537[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sun Jul 11 01:05:19 2021 +0530
+
+    removed login_presentation
+
+[33mcommit e4a4e0999222a3e351a664ea6b8eefaece0ea650[m
+Merge: 35a3bc2 b19b773
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sun Jul 11 00:57:19 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into ria
+    
+    # Conflicts:
+    #       .idea/compiler.xml
+    #       .idea/group-14.iml
+    #       .idea/misc.xml
+    #       .idea/workspace.xml
+    #       pom.xml
+    #       src/main/java/com/dalhousie/group14/BusinessLogic/utilities/Login.java
+    #       src/main/java/com/dalhousie/group14/Database/utilities/DbConnection.java
+    #       target/EMS-1.0-SNAPSHOT.jar
+    #       target/classes/com/dalhousie/group14/App.class
+    #       target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+    #       target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+
+[33mcommit b19b77373ce62b3ec345a1aeb1b04bc486c2a0d0[m
+Merge: 220dc1c f0f6818
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sat Jul 10 16:16:41 2021 -0300
+
+    Merge branch 'ninad' into 'develop'
+    
+    Salaries
+    
+    See merge request courses/2021-summer/csci-5308/group-14!12
+
+[33mcommit f0f6818a11689c0ea6cf3609ac0e93e1bcd3db2f[m
+Author: nnshukla <nn320259@dal.ca>
+Date:   Sat Jul 10 16:11:28 2021 -0300
+
+    pom.xml commit
+
+[33mcommit 0d1ccca8ed1f110659587912911ba30a4c9d1062[m
+Merge: 75e8db3 220dc1c
+Author: nnshukla <nn320259@dal.ca>
+Date:   Sat Jul 10 16:06:13 2021 -0300
+
+    Merge remote-tracking branch 'origin/develop' into ninad
+    
+    # Conflicts:
+    #       .idea/compiler.xml
+    #       .idea/group-14.iml
+    #       .idea/misc.xml
+    #       .idea/workspace.xml
+    #       pom.xml
+    #       target/classes/com/dalhousie/group14/App.class
+
+[33mcommit 220dc1cd4752586b048270affb01e285f5b4bb7d[m
+Merge: 02ff7bd d0af836
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 10 16:03:48 2021 -0300
+
+    Merge branch 'jainam' into 'develop'
+    
+    Security Question Answer and Edit Profile(Update Password andsecuirty Question answer)
+    
+    See merge request courses/2021-summer/csci-5308/group-14!11
+
+[33mcommit d0af836445dc16edd2ceddf75274a9acb1d019bf[m
+Merge: 0e155b7 02ff7bd
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sun Jul 11 00:24:15 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into jainam
+    
+    # Conflicts:
+    #       src/main/java/com/dalhousie/group14/BusinessLogic/utilities/Login.java
+    #       src/main/java/com/dalhousie/group14/Database/utilities/DbConnection.java
+
+[33mcommit 02ff7bd482b67435f6a61267bdf78190f9b85466[m
+Merge: f62010a 4ff7850
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 10 15:50:58 2021 -0300
+
+    Merge branch 'aadil' into 'develop'
+    
+    Notification feature merge
+    
+    See merge request courses/2021-summer/csci-5308/group-14!10
+
+[33mcommit 4ff785002323ddc7c4962649829254e34593e3a3[m
+Merge: fe4d393 f62010a
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sun Jul 11 00:19:50 2021 +0530
+
+    Merge remote-tracking branch 'origin/develop' into aadil
+    
+    # Conflicts:
+    #       .idea/workspace.xml
+    #       src/main/java/com/dalhousie/group14/App.java
+
+[33mcommit fe4d393daf58afeb55012b9b871d8ea1a2556e91[m
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sun Jul 11 00:14:18 2021 +0530
+
+    Updated code for notification feature
+
+[33mcommit f62010ac7779413ce93430f3b2f1bdaec29fcf8a[m
+Merge: e459bbb d8b1411
+Author: Aadil Sadik Mohmed Shaikh <ad979991@dal.ca>
+Date:   Sat Jul 10 15:42:08 2021 -0300
+
+    Merge branch 'harjot' into 'develop'
+    
+    Addition of Performance Evaluation, Client and Project Module.
+    
+    See merge request courses/2021-summer/csci-5308/group-14!9
+
+[33mcommit 35a3bc281164acbb0019b5a44525c60056f3fcea[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sun Jul 11 00:03:01 2021 +0530
+
+    Removed Login_Credentials Interface.
+
+[33mcommit 57f9c26f80c6ff9c65bba2fc8e9cf69b1e02565f[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sun Jul 11 00:00:24 2021 +0530
+
+    login file changed ;added implements
+
+[33mcommit ec32f9ed503cf768c620a8d4e6e547c7604d83bf[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sat Jul 10 23:53:50 2021 +0530
+
+    login file changed ;added implements
+
+[33mcommit 0e155b78c8e6d7425b8c01233cd9449f42ab6b69[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sat Jul 10 23:50:00 2021 +0530
+
+    Update SecurityQuestion.java interface method.
+
+[33mcommit 9b746536649db086abaea94f19086cac51aea9a0[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sat Jul 10 23:49:18 2021 +0530
+
+    Update DbConnection.java connection object.
+
+[33mcommit 2804013ca2eeadf6686c9ce7990b3ccf42f9efcd[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sat Jul 10 23:42:53 2021 +0530
+
+    login file changed ;removed implements
+
+[33mcommit 15c8da9713729c7b85d54161c7c690a705427572[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sat Jul 10 23:41:25 2021 +0530
+
+    commit no 1
+
+[33mcommit ab90089ddc29f44bd16e219e7621919fe28bb92e[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sat Jul 10 23:37:52 2021 +0530
+
+    Update UpdateSecurityAnswer.java  connection object.
+
+[33mcommit 62bac2e2107011044ad1153237de8ea63ab7f4fc[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sat Jul 10 23:37:12 2021 +0530
+
+    Update UpdateSecurityQuestion.java  connection object.
+
+[33mcommit 511dc872427e9fb1785ce71dc8d80956f2be9cfc[m
+Author: Ria Amarkumar Shah <rm975594@dal.ca>
+Date:   Sat Jul 10 23:37:04 2021 +0530
+
+    Dbconnection code changed
+
+[33mcommit 752efb59bd3a76e38da89464ba9c7931f593d44b[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sat Jul 10 23:36:18 2021 +0530
+
+    Update DisplayEmployeeLoginInfo.java connection object.
+
+[33mcommit 6d8020a14f692a3be7dee1df5d938ee86a1578a6[m
+Author: Jainam Rakeshkumar Shah <jn326778@dal.ca>
+Date:   Sat Jul 10 23:35:18 2021 +0530
+
+    Update UpdatePassword.java connection object.
+
+[33m
